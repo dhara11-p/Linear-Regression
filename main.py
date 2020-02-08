@@ -23,19 +23,19 @@ dataset = pd.read_csv('student_scores.csv')
 # In[3]:
 
 
-dataset.shape
+
 
 
 # In[4]:
 
+dataset.shape
 
-dataset.head()
+
 
 
 # In[5]:
 
 
-dataset.describe()
 
 
 # In[6]:
